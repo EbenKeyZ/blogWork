@@ -1,0 +1,23 @@
+.comment{
+
+}
+.comment-body{
+    margin-top: 20px;
+}
+.comment-list{
+    /*font-size: large;*/
+    list-style: none;
+    margin: 0 auto;
+    padding: 6.72% 8% 0;
+    width: 100%
+}
+.comment-date{
+
+}
+.comment-user{
+    font-size: x-large;
+}
+.comments{
+    padding-left: 20px;
+    margin-bottom: 50px;
+}

@@ -1,0 +1,25 @@
+.has-error{
+    color:red;
+}
+
+.alert{
+    color:white;
+    position:absolute;
+    top:60px;
+    right: 20px;
+    z-index: 5;
+    /*opacity: 0.9;*/
+    background-color: #0b0b0b;
+}
+
+.title{
+	font-size: 40px;
+}
+
+.left side-menu{
+	background-color: #333;
+}
+#btn_color{
+	background-color: grey;
+	color: white;
+}
